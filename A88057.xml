@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The letters, commissions and other papers which were communicated to the Common-Councel of the City of London, by a committee of the Honorable House of Commons, on Monday, July 31. 1648. Die Martis, 2 Augusti, 1648. Ordered by the Commons assembled in Parliament, that the said letters be forthwith printed ... H: Elsynge, Cler. Parl. D Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88057</idno>
+            <idno type="STC">Wing L1776</idno>
+            <idno type="STC">Thomason E456_31</idno>
+            <idno type="STC">ESTC R202727</idno>
+            <idno type="EEBO-CITATION">99862921</idno>
+            <idno type="PROQUEST">99862921</idno>
+            <idno type="VID">115101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115101)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E456[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The letters, commissions and other papers which were communicated to the Common-Councel of the City of London, by a committee of the Honorable House of Commons, on Monday, July 31. 1648. Die Martis, 2 Augusti, 1648. Ordered by the Commons assembled in Parliament, that the said letters be forthwith printed ... H: Elsynge, Cler. Parl. D Com.</title>
+                  <author>T. H.</author>
+                  <author>W. G.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Green, Richard, fl. 1648.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 4. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letters from T.H. and W.G., and a commission and instructions from Prince Charles to Richard Green.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115101:1" rendition="simple:additions"/>
+            <p>THE LETTERS, Commiſsions And other PAPERS WHICH Were communicated to the Common-Councel of the City of <hi>London,</hi> by a Committee of the Honorable Houſe of Commons, on Monday, <hi>July</hi> 31. 1648.</p>
+            <p>Die Martis, 2 Auguſti, 1648.</p>
+            <p>ORdered by the Commons aſſembled in Parliament, That the ſaid Letters be forthwith printed and publiſhed.</p>
+            <p>Ordered, That the Inſtructions given to Captain <hi>Green</hi> from the Prince, and other material Commiſſions and Papers, be forthwith printed.</p>
+            <p>H: Elſynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons, <hi>Auguſt</hi> 4. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:115101:2"/>
+            <head>For Mr. <hi>William Tompſon,</hi> Town-Clerk of <hi>Edenburgh.</hi>
+            </head>
+            <opener>
+               <dateline>LONDON, <date>26 <hi>Iulii,</hi> 1648.</date>
+               </dateline>
+               <salute>Honeſt Cozen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have yours by <hi>Will. Lamb</hi> of Carcadia, and have fully en<g ref="char:EOLhyphen"/>quired into your buſineſs, and there's no fear in the behalf of <hi>I. M.</hi> I have fraighted Mr. <hi>Ham<g ref="char:EOLhyphen"/>bleton</hi> with News, who will communicate all to you; what you write, let it be by Sea, for that is the ſafeſt way of Intelli<g ref="char:EOLhyphen"/>gence at preſent, and there's no fear of any ſtop of Trade that way. I commend the prudence of the Committee, to give leave now and then for a Ship of Corn to come to this Port, it will be a means to keep Trade open to our people: <hi>W. G.</hi> hath written about the other buſineſs you men<g ref="char:EOLhyphen"/>tioned of 261. or elſe given L. private In<g ref="char:EOLhyphen"/>ſtructions: We are adviſed the Earl of Kallendar is coming with the Artillery through Northumberland. I ſhall not
+<pb n="4" facs="tcp:115101:3"/>
+need to tell you how forward the Com<g ref="char:EOLhyphen"/>mons are; but their voting will be ac<g ref="char:EOLhyphen"/>cording to our Armies marching; The Presbyterian Prieſts begin to comply with the Independents; and which are moſt vio<g ref="char:EOLhyphen"/>lent, to tell you I cannot. 83. is not in town, but is gone to conſult with 219. the buſineſs I wrote to you of <hi>D. H.</hi> is almoſt perfected; the Furniture ſhall be ſent next Ship without fail, but the Earl of <hi>War<g ref="char:EOLhyphen"/>wicks</hi> inconſiderable Fleet lying in the Ri<g ref="char:EOLhyphen"/>ver, by their ſearching of our Ships makes us more then ordinary cautious: I have no more, but wiſhing you to ſend me back the great Trunk that your Curtains and Vallens were ſent in, but to take leave and ſubſcribe my ſelf</p>
+            <closer>
+               <signed>Your perfect loving friend and Cozen,
+<hi>T. H.</hi>
+               </signed>
+
+            </closer>
+            <postscript>
+               <p>You will hear of comfortable News within few days.</p>
+               <closer>
+                  <salute>Vale.</salute>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>Remember all our faithful reſpects to Sir <hi>Arch: Primroſe,</hi> and thank him for all his Intelligence communicated.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:115101:3"/>
+            <head>For the Right Worſhipful, Sir <hi>Alexander Gibſon,</hi> Clerk of the SIGNET at <hi>Edenburgh.</hi>
+            </head>
+            <opener>
+               <dateline>London, <date>26 <hi>July,</hi> 1648.</date>
+               </dateline>
+               <salute>Right Worſhipful,</salute>
+            </opener>
+            <p>HAving ſo truſty a Meſſenger and ſo ſure conveyance, I could not but adviſe you ſomething of the ſtate of our Affairs here: We are here in this City generally right, onely <hi>Skippon</hi> makes ſome diſturbance by Liſting Horſe and Foot, which though inconſiderable to what we have Liſted for us, yet we hope not onely to null his Liſting, but out him from his being General of this City; the Lords have already done ſomething, but
+<pb n="6" facs="tcp:115101:4"/>
+wait for ſome further encouragement from hence; to which purpoſe the Com<g ref="char:EOLhyphen"/>mon-Councel are about framing a Peti<g ref="char:EOLhyphen"/>tion. I ſhall refer you to <hi>T. Hambleton</hi> for the buſineſs in the Weſt; for that in the North, its ours already, and <note n="*" place="margin">
+                  <hi>Col.</hi> Matth. Boynton.</note>
+               <hi>Matt.</hi> ſhall be Sainted: 291 is not yet ready to be diſpatched; for <hi>Colcheſter,</hi> its in no great ſtraights, able to hold out this moneth. I hope you had mine by <hi>D. H.</hi> wherein I adviſed of the unfortunate ſucceſs of <note n="*" place="margin">E. of <hi>Holland.</hi>
+               </note>
+               <hi>H.</hi> We have no ſafer way for conveyance of Intelligence, then by Sea: I am in very much haſte, and have onely time to ſub<g ref="char:EOLhyphen"/>ſcribe my ſelf,</p>
+            <closer>
+               <signed>Your faithful Serviture,
+<hi>W. G.</hi> 2 x:</signed>
+            </closer>
+            <postscript>
+               <p>We are not idle, but active: God give good ſucceſs.</p>
+               <closer>
+                  <salute>Vale.</salute>
+               </closer>
+            </postscript>
+         </div>
+         <div type="document">
+            <pb n="7" facs="tcp:115101:4"/>
+            <head>The Princes Commiſsion to Capt. <hi>Green,</hi> taken and ſent to the Parliament by Sir MICHAEL LIVESEY.</head>
+            <p>
+               <hi>CHARLS,</hi> Prince of <hi>Great Britain,</hi> Duke of <hi>Cornwal</hi> and <hi>Albany,</hi> Higheſt Captain General un<g ref="char:EOLhyphen"/>der His Majeſty of all Forces both by Sea and Land, within the Kingdom of <hi>England,</hi> Dominion of <hi>VVales,</hi> and Town of <hi>Berwick:</hi> Whereas we hold it very convenient and neceſſa<g ref="char:EOLhyphen"/>ry for His Majeſties Service, to Arm, or cauſe to be Armed, and ſet forth to Sea as many Ships and Veſſels of War as poſsibly can be, for the weak<g ref="char:EOLhyphen"/>ning and ſuppreſsing the Rebels uſurp<g ref="char:EOLhyphen"/>ed Power, and for the effectual ſtop<g ref="char:EOLhyphen"/>ing and breaking of their Commerce and Supply by Sea: And foraſmuch as we have received ſufficient teſtimony of
+<pb n="8" facs="tcp:115101:5"/>
+your abilities and experience in Sea affairs, and of your good affection to the King our Royal Fathers Service; we do by theſe preſents, by vertue of the Power and Authority given and com<g ref="char:EOLhyphen"/>mitted to us from our moſt dear Father the Kings moſt excellent Majeſty, con<g ref="char:EOLhyphen"/>ſtitute, authorize and appoint you Cap<g ref="char:EOLhyphen"/>tain <hi>Richard Green,</hi> to be Captain and chief Commander of the good Ship cal<g ref="char:EOLhyphen"/>led the <hi>Chriſtopher</hi> of <hi>Sunderland,</hi> authorizing and commanding you, with the ſaid Veſſel compleatly manned and armed for the War, and with ſuch others as ſhall aſſociate with you for our dear Fathers Service, to do and cauſe to be done to the Rebels all poſsible damage and hoſtility in their Shipping, Com<g ref="char:EOLhyphen"/>merce and Navigation; and in caſe of reſiſtance, to uſe your beſt vigilance
+<pb n="9" facs="tcp:115101:5"/>
+and endeavors during the time of this Rebellion, to take, apprehend, ſink and fire, or otherwiſe to impair and de<g ref="char:EOLhyphen"/>ſtroy the Ships, Veſſels and men, their goods, and all things to them belonging, of all and every of thoſe His Maje<g ref="char:EOLhyphen"/>ſties Subjects, who are or ſhall be in Re<g ref="char:EOLhyphen"/>bellion againſt Him, or of thoſe who ſhall be aiding, abetting or aſsiſting to them; and of all others who ſhall tran<g ref="char:EOLhyphen"/>ſport or convey any goods belonging to them, or which ſhall bring or carry any Arms, Ammunition, Victuals or Pro<g ref="char:EOLhyphen"/>viſions of Arms, or Warlike Proviſions whatſoever to them, or for their uſe, or to any City, Town, Port, Creek or place in their poſſeſsion, &amp; out of his Majeſties obedience, contrary to His Proclama<g ref="char:EOLhyphen"/>tions made or to be made on that behalf: All which you ſhall and may do and
+<pb n="10" facs="tcp:115101:6"/>
+perform by vertue of this our Commiſ<g ref="char:EOLhyphen"/>ſion; as alſo to anchor, victual and re<g ref="char:EOLhyphen"/>freſh in any His Majeſties Roads, Ports and Havens, and from thence again to put forth to Sea, and to bring the Prizes by you taken, the Papers and Evidences found on board, with<g ref="char:EOLhyphen"/>out breaking bulck into any Port or Haven within His Majeſties obedi<g ref="char:EOLhyphen"/>ence and poſſeſsion, and to have the ſame adjudged as lawful Prizes, and the ſame to be divided, parted and ſhared, according to the ancient cu<g ref="char:EOLhyphen"/>ſtom of the Sea: And in caſe it ſhall ſo happen, that you cannot without emi<g ref="char:EOLhyphen"/>nent and apparent danger bring the Prizes ſo taken into ſome of His Ma<g ref="char:EOLhyphen"/>jeſties Ports, without danger or hazard of having them ſurprized or taken from you again by the Rebels; then and in
+<pb n="11" facs="tcp:115101:6"/>
+ſuch neceſsity you ſhall have free Power and Authority to carry ſuch Prizes into any Port or Haven of any His Majeſties Friends or Allies be<g ref="char:EOLhyphen"/>yond the Seas in League and Amity with him, there to diſpoſe of the ſame: Except always, and reſerving to his Majeſty all Tenths heretofore uſed to be paid in caſes of like nature to the Admiral of <hi>England,</hi> and all cuſtoms and duties due or accuſtomably paid to his Majeſty for or upon any of the ſaid Prizes, which we will that you pay and juſtly accompt for to his Majeſty. Provided always, That before the ſaid Ship or Veſſel of War to be ſet out by you ſhall put forth to Sea, you ſhall en<g ref="char:EOLhyphen"/>ter into ſecurity with his Majeſty, ac<g ref="char:EOLhyphen"/>cording to the courſe of the high Court of Admiralty of <hi>England,</hi> in ſuch cau<g ref="char:EOLhyphen"/>tion
+<pb n="12" facs="tcp:115101:7"/>
+as ſhall be thought meet and neceſ<g ref="char:EOLhyphen"/>ſary by the Judge of the Admiralty or Vice-Admiralty in the place from whence you ſhall put forth to Sea, That you will do, or ſuffer to be done no wrong or violence to any of his Majeſties Friends, Allies, or Loyal Subjects; but on the con rary, as occaſion and need ſhall require, to yield and afford them all favor, furtherance and aſsiſtance, excepting ſuch of them as ſhall be em<g ref="char:EOLhyphen"/>ployed in aid and ſervice by the Rebels, or any of them: And we further charge &amp; command all the inferior officers &amp; their Mates, and all the Soldiers and Mariners of the ſaid Ship (whom we hereby likewiſe give you ful power to no<g ref="char:EOLhyphen"/>minate and appoint) you to obey and ob<g ref="char:EOLhyphen"/>ſerve as their captain &amp; chief comman<g ref="char:EOLhyphen"/>der, and to receive, execute &amp; fulfil rea<g ref="char:EOLhyphen"/>dily
+<pb n="13" facs="tcp:115101:7"/>
+ally our orders, commands, and all things tending to the good and advance<g ref="char:EOLhyphen"/>ment of his Majeſties Service; and you your ſelf likewiſe to accompliſh ſuch Orders and Directions as you ſhall re<g ref="char:EOLhyphen"/>ceive from time to time from his Ma<g ref="char:EOLhyphen"/>jeſty, from us, or from any other your Superior Officer for the time being touching the Premiſes; for which this ſhall be unto you, and to every one em<g ref="char:EOLhyphen"/>ployed under you, a ſufficient Warrant and Diſcharge, the ſame being to con<g ref="char:EOLhyphen"/>tinue in full force for the ſpace of one whole year, from the day of the date hereof.</p>
+            <closer>
+               <dateline>Given at St. <hi>Germain en Laye,</hi> 
+                  <date>the 6. of <hi>June,</hi> 1648.</date>
+               </dateline>
+               <signed>CHARLS P.</signed>
+               <signed>By his Highneſs Command, Rob. Long.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="14" facs="tcp:115101:8"/>
+            <head>The Princes Inſtructions to Capt. <hi>Green,</hi> directing him to expect Or<g ref="char:EOLhyphen"/>ders either from the Prince himſelf or the Lord <hi>Jermin,</hi> the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby</hi> of <hi>Parham</hi> being Vice-Admiral in Name onely (as it ap<g ref="char:EOLhyphen"/>peareth) and not truſted with the Secrecy of Affairs.</head>
+            <opener>
+               <signed>CHARLS P.</signed>
+            </opener>
+            <head>Inſtructions for Captain <hi>Richard Green,</hi> touch<g ref="char:EOLhyphen"/>ing the execution of his Commiſsion of Captain of the good Ship or Veſſel called the of bearing date herewith, that is to ſay, the <hi>6.</hi> of <hi>June,</hi> in the Four and twen<g ref="char:EOLhyphen"/>tieth year of His Majeſties Reign.</head>
+            <p>FIrſt, Becauſe it is not ſeaſonable to put the ſaid Commiſsion in execution, you ſhall therefore for the preſent conceal the ſame.</p>
+            <p>Secondly, You ſhall not put the ſaid Commiſsion in execution by taking any
+<pb n="15" facs="tcp:115101:8"/>
+Prizes, or doing any act of hoſtility by vertue thereof, until we ſhall have pub<g ref="char:EOLhyphen"/>liſhed our Manifeſt and Declaration, whereby it ſhall be expreſſed who are the Enemies againſt whom you are to execute our ſaid Commiſsion, or until you ſhall receive further and particular Order from us, or from our right Truſty and welbe<g ref="char:EOLhyphen"/>loved <hi>Henry</hi> Lord <hi>Iermin</hi> in that behalf.</p>
+            <p>Thirdly, You ſhall in all things con<g ref="char:EOLhyphen"/>cerning our ſaid Commiſsion, obey ſuch Orders and Directions as you ſhall from time to time receive from the ſaid Lord <hi>Iermin,</hi> to whom we have given full Power and Authority and in that behalf.</p>
+         </div>
+         <div type="statement">
+            <p>There was at the ſame time com<g ref="char:EOLhyphen"/>municated to the Common-Coun<g ref="char:EOLhyphen"/>cel, a Iudgement given in the Ad<g ref="char:EOLhyphen"/>miralty Court held in the Iſle of <hi>Jerſey</hi> the 30 of March, 1648. a<g ref="char:EOLhyphen"/>gainſt one <hi>Thomas Tatnel,</hi> Maſter
+<pb n="16" facs="tcp:115101:9"/>
+of the Frigot called <hi>The Saint Chri<g ref="char:EOLhyphen"/>ſtopher;</hi> by which Iudgement <hi>Tatnel</hi> is adjudged to loſe his ſaid Frigot, for this Reaſon enter'd <hi>(in terminis)</hi> in the Inſtrument of Adjucation, <hi>Pur ceo que eſt Troue que le dit Tatnel &amp; ſes Conſortes avoient priſe le de<g ref="char:EOLhyphen"/>teſtable Serement dict le Covenant,</hi> Be<g ref="char:EOLhyphen"/>cauſe that it did appear, That the ſaid <hi>Tatnel</hi> and his Conſorts had taken the deteſtable Oath called the Covenant. <hi>Look to your ſelves Co<g ref="char:EOLhyphen"/>venanters.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
